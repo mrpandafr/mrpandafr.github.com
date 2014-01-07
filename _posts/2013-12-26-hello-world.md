@@ -12,7 +12,7 @@ Hi everyone who read this. This place is not suitable for childreen, as well as 
 It's where i'm talking about my own playground.
 I will share my under learning experiences to own to build some mobiles apps. The good and the bad.
 
-## Who am i ?
+### Who am i ?
 Well, i'm a developper (What ? No Really ? You've had somes pages on github and you're not something else, what a surprise).
 I'm pretty good at ... Action Script, and PHP ... well. Believe me or not but you can accomplish some nice stuffs with this 2.
 I've started playing with Django two years ago. And I fell in love with Python.
