@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le blog dev de MrPandaFr
+title: Welcome :)
 tagline: Un endroit sombre / Such a dark place
 ---
 {% include JB/setup %}
